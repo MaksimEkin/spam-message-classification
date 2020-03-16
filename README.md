@@ -1,7 +1,7 @@
 # SMS Spam Messages Classification 
 ### Compare Different Vectorizers
 
-![](spam.jpg)
+![](cover/spam.jpg)
 
 **Goal**: Classify Spam Messages. Compare Tfid with plain text results, Hash Vectorizer with n-Grams results where n=2, and Burrows Wheeler Transform Distance (BWTD) with plain text and n-gram results.<br>
 **Approach**:
