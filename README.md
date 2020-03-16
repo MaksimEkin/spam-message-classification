@@ -1,5 +1,5 @@
 # SMS Spam Messages Classification 
-## Compare Different Vectorizers
+### Compare Different Vectorizers
 
 ![](spam.jpg)
 
