@@ -18,4 +18,13 @@
 **Data:** [SMS Spam Collection Dataset | Kaggle](https://www.kaggle.com/uciml/sms-spam-collection-dataset)<br>
 **Cover Picture:** [Mobile spam | Flickr](https://www.flickr.com/photos/christiaancolen/20796966373)<br>
 **BWTD:** [Burrows Wheeler Transform Distance (BWTD) by Dr. Edward Raff](https://github.com/EdwardRaff/pyBWMD)<br><br>
+```
+@inproceedings{Raff2020,
+author = {Raff, Edward and Nicholas, Charles and McLean, Mark},
+booktitle = {The Thirty-Fourth AAAI Conference on Artificial Intelligence},
+title = {{A New Burrows Wheeler Transform Markov Distance}},
+url = {http://arxiv.org/abs/1912.13046},
+year = {2020}
+}
+```
 **Project Author:** Maksim Ekin Eren
